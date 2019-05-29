@@ -1,0 +1,13 @@
+{
+  "name": "parcel-issue-3098",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "parcel-bundler": "^1.12.3"
+  }
+}
